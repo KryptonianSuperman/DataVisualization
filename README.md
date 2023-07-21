@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+![image](https://github.com/KryptonianSuperman/DataVisualization/assets/15845797/dd76b475-15ec-4d22-a7ff-caf72cfae66d)
+Screenshot of requested data
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
